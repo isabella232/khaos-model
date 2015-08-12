@@ -13,4 +13,4 @@ var {{titlecase name}}Collection = AmpersandCollection.extend({
 });
 
 module.exports = {{titlecase name}};
-module.exportsCollection = {{titlecase name}}Collection;
+module.exports.Collection = {{titlecase name}}Collection;
